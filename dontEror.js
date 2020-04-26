@@ -1,5 +1,5 @@
 var dontEror = [
-'tokokita-minimalist.github.io/dontEror.js',
+'https://jasavideomotiongraphickendal.blogspot.com/',
 ];
 
 var redirectUrl = 'https://bit.ly/rianseo_pedia';
