@@ -1,5 +1,5 @@
 var dontEror = [
-'https://jasavideomotiongraphickendal.blogspot.com/',
+'jasavideomotiongraphickendal.blogspot.com',
 ];
 
 var redirectUrl = 'https://bit.ly/rianseo_pedia';
